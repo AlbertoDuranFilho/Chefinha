@@ -52,7 +52,7 @@ export function Invite(){
                     </div>
                     {/*body*/}
                     <div className="relative p-6 flex-auto">
-                      <img className="w-80" src="../src/assets/meme-1.jpg" alt="" />
+                      <img className="w-80" src="/assets/meme-1.jpg" alt="" />
                     </div>
                   </div>
                 </div>
